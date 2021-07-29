@@ -155,7 +155,7 @@ The broadest space of the Organization's market is its "General Market", which c
 - **(b)** its unique code.
 - **(c)** its corresponding Geography.
 - **(d)** its default Locale and Currency.
-- **(e)** its Parent-Market.
+- **(e)** its Parent-Market. (optional)
 
 The General Market has no Parent-Market.
 
@@ -176,6 +176,24 @@ A ***“Offering”*** is a value exchange offering that can be opened or closed
 ### 1.4 Pricing
 
 WIP!
+
+---
+
+# **Appendix A**
+
+## Market Steward
+
+**Purpose:** _The Market Steward holds the Purpose of the Anchor Circle._
+
+**Domains:**
+
+- Market's structure
+
+**Accountabilities:**
+
+- Defining the Geography and Sub-Markets structure
+
+_The Circle Lead also holds all Accountabilities on the Circle to the extent they are not covered by the Circle's Roles or processes._
 
 ---
 
