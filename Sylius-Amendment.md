@@ -6,7 +6,7 @@ This document is an amendment to the Holacracy® Constitution. For more informat
 
 The Organization and its Partners steward a space to create and exchange Value among Organizations and Individuals, the ***"Market"***.
 
-## Article 1: Value Structure and Governance
+## Article 1: Value
 
 Value created by the Organizations and Individuals can be defined as: Services, Products, Relationship Types or Licenses.
 
@@ -65,7 +65,7 @@ Any Role can create a new Value Definition by publishing the decision and the De
 
 By default, every Value Definition gains lifecycle stage "Idea" unless specified otherwise, as one of "Pre-alpha", "Alpha", "Beta", "Stable", "Deprecating" or "Legacy".
 
-## Article 2: Market Structure and Governance
+## Article 2: Market Foundations
 
 ### 2.1 Individuals and Organizations
 
@@ -159,7 +159,11 @@ The broadest space of the Organization's market is its "General Market", which c
 
 The General Market has no Parent-Market.
 
-## Article 3: Exchange Process
+## Article 3: Agreements
+
+WIP
+
+## Article 4: Exchanges
 
 WIP!
 
