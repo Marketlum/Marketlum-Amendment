@@ -195,7 +195,8 @@ WIP!
 
 **Accountabilities:**
 
-- Defining the Geography and Sub-Markets structure
+- Defining the Geography and Market's structure
+- Defining the key taxonomies used in the Market
 
 _The Circle Lead also holds all Accountabilities on the Circle to the extent they are not covered by the Circle's Roles or processes._
 
