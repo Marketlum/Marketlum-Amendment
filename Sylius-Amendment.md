@@ -187,7 +187,7 @@ WIP!
 
 ## Market Steward
 
-**Purpose:** _The Market Steward holds the Purpose of the Anchor Circle._
+**Purpose:** _Steward the Market and hold the Purpose of the Anchor Circle._
 
 **Domains:**
 
