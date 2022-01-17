@@ -73,7 +73,7 @@ An ***“Organization*** is a legal person/entity. Organization definition consi
 
 ### 2.2 Forming and Terminating Relationships
 
-Unless a Policy specifies otherwise, any Role can form or terminate a Relationship of a specific type after formalizing it and publishing the decision. The Partner energizing that Role automatically becomes a Relationship-Lead for this specific relationship.
+Unless a Policy specifies otherwise, any Role can form or terminate a Relationship of a specific type after publishing the decision to do so. The Partner energizing that Role automatically becomes a Relationship-Lead for this specific relationship.
 
 ### 2.3 Physical and Digital Dimensions
 
@@ -129,13 +129,13 @@ Default Interface types are as follows:
 - Mobile Application
 - Social Media Shop
 
-### 2.3 Locales, Currencies and Exchange Rates
+### 2.3 Locales and Product Exchange Rates
 
-Every Locale and Currency is defined as name and ISO??? code. The Exchange Rate has source, target currency and rate.
+Every Locale defined as name and ISO code. An Exchange Rate is a pair and ratio between fungible Products (e.g. currencies) can be defined.
 
 ### 2.4 General Market, Sub-Markets and Channels
 
-The broadest space of the Organization's market is its "General Market", which corresponds to the broadest defined Geography. Each Market is defined as:
+The broadest space of the Organization's Market is its "General Market", which corresponds to the broadest defined Geography. Each Market is defined as:
 
 - **(a)** its name.
 - **(b)** its unique code.
@@ -147,7 +147,7 @@ The General Market has no Parent-Market.
 
 ## Article 3: Agreements
 
-WIP
+WIP!
 
 ## Article 4: Exchanges
 
@@ -155,15 +155,13 @@ WIP!
 
 ### 1.2 Offering Definition
 
-A ***“Offering”*** is a value exchange offering that can be opened or closed in the Market. Offering definition consists of:
+A ***“Offering”*** is a Value Exchange proposition that can be opened or closed in the Market. Offering definition consists of:
 
 - **(a)** a descriptive name.
-- **(b)** a ***“Purpose”***, which is a capacity, potential, or goal that the Organization proposes on the Market.
-- **(d)** at least one or more Services, Products, Relationship Types or Licenses, each with their ***"Pricing"***.
+- **(b)** a ***“Purpose”***, which is a capacity, potential, or goal that specific Offering.
+- **(d)** at least one or more Offering Components, referencing Services, Products or Relationship Types, each with their ***"Pricing"***.
 
-### 1.3
-
-### 1.4 Pricing
+### 1.3 Pricing
 
 WIP!
 
