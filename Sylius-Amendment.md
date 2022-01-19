@@ -181,15 +181,21 @@ WIP!
 
 ### 1.2 Offering Definition
 
-A ***“Offering”*** is a Value Exchange proposition that can be opened or closed in the Market. Offering definition consists of:
+A ***“Offering”*** is a Value Exchange proposition that can be opened or closed in a specific Market. Offering definition consists of:
 
 - **(a)** a descriptive name.
 - **(b)** a ***“Purpose”***, which is a capacity, potential, or goal that specific Offering.
 - **(d)** at least one or more Offering Components, referencing Services, Products, specific Product Instances, Product Licenses or Relationship Types, each with their ***"Pricing"***.
 
-### 1.3 Pricing
+The **Offering** can be opened for a specific timeframe. All **Offerings** open in the Parent-Market are also open in any of its Sub-Markets. 
 
-WIP!
+### 1.3 Quantities
+
+Each **Offering Component** can have its specific ***Quantity*** defined, being 1 by default.
+
+### 1.3 Pricing Strategies and Formulas
+
+Each **Offering Component** must have a ***Pricing Strategy and Formula*** defined, whereas any Role or software calculating the price must use their best effort interpretation to determine the final price.
 
 ---
 
