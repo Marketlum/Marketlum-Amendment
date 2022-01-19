@@ -33,6 +33,18 @@ A Product can have another Product as it's Parent-Product if at least one of the
 - **(a)** Its existence depends on the existence of the Parent-Product.
 - **(b)** It is clearly distingushable part of the Parent-Product.
 
+### 1.2.1 Tangible and Intangible Products
+
+Every ***Product*** can be characterised as **Tangible** if it's a concrete object that can be touched or **Intangible** if it's a subtle object that can only be perceived indirectly.
+
+### 1.2.2 Product Instance Definition
+
+A ***Product Instance*** is a unique **Tangible** or **Intangible**  manifestation of a given ***Product***.
+
+#### 1.2.3 Fungible and Non-Fungible Products
+
+If any pair of **Product Instances** are considered to be identical in specification and can be mutually substituted, then the **Product** is considered to be **Fungible**.
+
 ### 1.3 Relationship Type Definition
 
 A ***“Relationship Type”*** is a type of relationship that can be formed between the Organization and other Organizations or Individuals. Relationship Type definition consists of:
