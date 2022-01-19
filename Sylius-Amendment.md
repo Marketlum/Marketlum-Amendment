@@ -185,7 +185,7 @@ A ***“Offering”*** is a Value Exchange proposition that can be opened or clo
 
 - **(a)** a descriptive name.
 - **(b)** a ***“Purpose”***, which is a capacity, potential, or goal that specific Offering.
-- **(d)** at least one or more Offering Components, referencing Services, Products or Relationship Types, each with their ***"Pricing"***.
+- **(d)** at least one or more Offering Components, referencing Services, Products, specific Product Instances, Product Licenses or Relationship Types, each with their ***"Pricing"***.
 
 ### 1.3 Pricing
 
