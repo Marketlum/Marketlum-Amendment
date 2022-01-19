@@ -171,6 +171,10 @@ The broadest space of the Organization's Market is its "General Market", which c
 
 The General Market has no Parent-Market.
 
+### Measurements
+
+All measurements in the **Market** can be standardized into ***Measurement Types and Units***.
+
 ## Article 3: Agreements
 
 WIP!
@@ -213,6 +217,7 @@ Each **Offering Component** must have a ***Pricing Strategy and Formula*** defin
 
 - Defining the Geography and Market's structure
 - Defining the key taxonomies used in the Market
+- Defining the standard measurement units used in the Market
 
 _The Circle Lead also holds all Accountabilities on the Circle to the extent they are not covered by the Circle's Roles or processes._
 
