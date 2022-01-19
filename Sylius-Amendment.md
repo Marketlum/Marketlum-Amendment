@@ -45,6 +45,20 @@ A ***Product Instance*** is a unique **Tangible** or **Intangible**  manifestati
 
 If any pair of **Product Instances** are considered to be identical in specification and can be mutually substituted, then the **Product** is considered to be **Fungible**.
 
+#### 1.2.4 Product Licenses
+
+A ***Product License*** is a specific permission granted to an **Individual** or **Organization** related to a particular **Product**, and defined as:
+
+- **(a)** a descriptive name.
+- **(b)** a unique code.
+- **(c)** a ***“Purpose”***, which is a capacity, potential, or goal to be expressed by this license.
+
+A Product License can have another service as it's Parent-License as long as it expands or amends the permissions granted by the Parent-License.
+
+#### 1.2.5 Licensing
+
+Any role can grant **Individual** or **Organization** (Grantee) a unique token of given ***Product License*** which then becomes a ***Granted License***. It can be granted for a limited scope of time.
+
 ### 1.3 Relationship Type Definition
 
 A ***“Relationship Type”*** is a type of relationship that can be formed between the Organization and other Organizations or Individuals. Relationship Type definition consists of:
