@@ -164,6 +164,8 @@ Depending on how the contract was executed, an ***Agreement*** can be considered
 
 Depending on the perspective taken by one of the parties, an exchange can be a ***Purchase*** or ***Sale***.
 
+Whenever at least one side of the Exchange consists of Value that can be generally considered as money, it can be identified as a Transaction of Value that can be generally considered as money, it can be identified as a ***Transaction***.
+
 ### 4.1 Channels
 
 All Exchanges take place through one of the transactional **Channels**, which can be any way that the actual agreement is made. The definition consists of:
