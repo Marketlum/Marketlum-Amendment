@@ -201,6 +201,22 @@ Each **Offering Component** can have its specific ***Quantity*** defined, being 
 
 Each **Offering Component** must have a ***Pricing Strategy and Formula*** defined, whereas any Role or software calculating the price must use their best effort interpretation to determine the final price.
 
+## Article 5: Internal Market
+
+By the virtue of stewarding the Market space (the "External" Market), the Organisation itself becomes the "Internal" Market and can make perform agreements and exchanges between it various parts.
+
+### 5.1 Micro-Enterprise Status
+
+Any role or circle can gain a **Micro-Enterprise** by any Circle Lead publishing the decision to do so and getting "No objection" from all other Circle Leads or Circle Reps of that role.
+
+### 5.2 Micro-Enterprise Accountabilities
+
+Every Micro-Enterprise gains additional accountabilities:
+
+- Creating, systemizing and evolving Value relevant to the purpose
+- Exchanging the relevant value on the external market via all possible channels
+- Tracking best effort approximation of revenue, expenses and the resulting P&L
+
 ---
 
 # **Appendix A**
