@@ -73,10 +73,6 @@ A Relationship Type can have another type as it's Parent-Relationship-Type as lo
 
 Any Role can create a new Value Definition by publishing the decision and the Definition itself. This role automatically gains a Domain over this Definition, unless a Policy specifies otherwise.
 
-### 1.5 Value's Lifecycle
-
-By default, every Value Definition gains lifecycle stage "Idea" unless specified otherwise, as one of "Pre-alpha", "Alpha", "Beta", "Stable", "Retiring" or "Legacy".
-
 ## Article 2: Market Foundations
 
 ### 2.1 Individuals and Organizations
@@ -96,10 +92,6 @@ An ***“Organization*** is a legal person/entity. Organization definition consi
 
 - **(a)** its legal name.
 - **(b)** its short/common name.
-
-### 2.2 Forming and Terminating Relationships
-
-Unless a Policy specifies otherwise, any Role can form or terminate a Relationship of a specific type after publishing the decision to do so. The Partner energizing that Role automatically becomes a Relationship-Lead for this specific relationship.
 
 ### 2.3 Physical and Digital Dimensions
 
