@@ -168,6 +168,7 @@ All Exchanges take place through one of the transactional **Channels**, which ca
 - **(a)** its name.
 - **(b)** its unique code.
 - **(c)** its unique physical or digital address.
+- **(d)** at least one or more languages available
 
 #### 4.1.1 Awareness and Exchange Channels
 
