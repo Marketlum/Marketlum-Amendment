@@ -93,15 +93,7 @@ An ***“Organization*** is a legal person/entity. Organization definition consi
 - **(a)** its legal name.
 - **(b)** its short/common name.
 
-### 2.3 Physical and Digital Dimensions
-
-The Market space can have two dimensions defined as Physical and Digital.
-
-#### 2.3.1 Physical Dimension
-
-Physical dimension consists of Geographies and uses Address to define a specific physical location in the Market.
-
-##### 2.3.1.1 Geography Definition
+### 2.3 Geography
 
 A ***“Geography*** is specific chunk of the Market's physical dimension defined as:
 
@@ -121,9 +113,9 @@ Default geography types are as follows, ordered by depth:
 
 A Geography can have another Geography as it's Parent-Geography as long as it is its part.
 
-##### 2.3.1.2 Address Definition
+##### 2.3.1 Address Definition
 
-An ***"Address"*** is a precise physical location, defined as:
+An ***"Address"*** is a precise geographical location, defined as:
 
 - **(a)** Street
 - **(b)** Geography: Country
@@ -131,25 +123,11 @@ An ***"Address"*** is a precise physical location, defined as:
 - **(d)** Geography or text: City
 - **(e)** Postalcode
 
-#### 2.3.2 Digital Dimension and Channels
-
-Digital dimension consists of Channels, defined as:
-
-- **(a)** its name.
-- **(b)** its unique code.
-- **(c)** its unique address.
-- **(d)** its type.
-
-Default Interface types are as follows:
-
-- Point of Sale
-- Website
-- Mobile Application
-- Social Media Shop
-
 ### 2.3 Locales and Product Exchange Rates
 
-Every Locale defined as name and ISO code. An Exchange Rate is a pair and ratio between fungible Products (e.g. currencies) can be defined.
+Every Locale defined as name and ISO code. 
+
+An Exchange Rate is a pair and ratio between fungible Products (e.g. currencies).
 
 ### 2.4 General Market, Sub-Markets and Channels
 
@@ -183,7 +161,19 @@ Depending on how the contract was executed, an ***Agreement*** can be considered
 
 Depending on the perspective taken by one of the parties, an exchange can be a ***Purchase*** or ***Sale***.
 
-### 1.2 Offering Definition
+### 4.1 Channels
+
+All Exchanges take place through one of the transactional **Channels**, which can be any way that the actual agreement is made. The definition consists of:
+
+- **(a)** its name.
+- **(b)** its unique code.
+- **(c)** its unique physical or digital address.
+
+#### 4.1.1 Awareness and Exchange Channels
+
+Whenever a Channel is non-transactional, which means that Agents cannot make an Agreement through it, it is considered an Awareness Channel. All transactional Channels can be considered Awareness or Exchange Channels, depending on the context.
+
+### 4.2 Offering Definition
 
 A ***“Offering”*** is a Value Exchange proposition that can be opened or closed in a specific Market. Offering definition consists of:
 
@@ -193,11 +183,11 @@ A ***“Offering”*** is a Value Exchange proposition that can be opened or clo
 
 The **Offering** can be opened for a specific timeframe. All **Offerings** open in the Parent-Market are also open in any of its Sub-Markets. 
 
-### 1.3 Quantities
+### 4.3 Quantities
 
 Each **Offering Component** can have its specific ***Quantity*** defined, being 1 by default.
 
-### 1.3 Pricing Strategies and Formulas
+### 4.3 Pricing Strategies and Formulas
 
 Each **Offering Component** must have a ***Pricing Strategy and Formula*** defined, whereas any Role or software calculating the price must use their best effort interpretation to determine the final price.
 
