@@ -55,8 +55,8 @@ A ***Right*** is a legally enforceable claim held by an **Individual** or **Orga
 
 A Right can have another Right as it Parent-Right if:
 
-- **(a)** It transcends and includes the Parent-Right and expands the claim.
-- **(b)** It is clearly distinguishable part of the Parent-Product.
+- **(a)** It transcends and includes the Parent-Right and expands the claim;
+- **(b)** It is clearly distinguishable part of the Parent-Right.
 
 #### 1.2.5 Licensing
 
