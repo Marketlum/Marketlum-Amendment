@@ -1,4 +1,4 @@
-# **Sylius® Amendment**
+# **Marketlum® Amendment**
 
 ## Preamble
 
@@ -57,10 +57,6 @@ A Right can have another Right as it Parent-Right if:
 
 - **(a)** It transcends and includes the Parent-Right and expands the claim;
 - **(b)** It is clearly distinguishable part of the Parent-Right.
-
-#### 1.2.5 Licensing
-
-Any role can grant **Individual** or **Organization** (Grantee) a unique token of given ***Product License*** which then becomes a ***Granted License***. It can be granted for a limited scope of time.
 
 ### 1.4 Relationship Definition
 
@@ -227,7 +223,7 @@ Every Micro-Enterprise gains additional accountabilities:
 
 **Accountabilities:**
 
-- Defining the Geography and Market's structure
+- Defining the Geography
 - Defining the key taxonomies used in the Market
 - Defining the standard measurement units used in the Market
 
