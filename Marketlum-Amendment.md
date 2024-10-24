@@ -37,11 +37,7 @@ A Product can have another Product as it's Parent-Product if at least one of the
 
 Every ***Product*** can be characterised as **Tangible** if it's a concrete object that can be touched or **Intangible** if it's a subtle object that can only be perceived indirectly.
 
-### 1.2.2 Product Instance Definition
-
-A ***Product Instance*** is a unique **Tangible** or **Intangible**  manifestation of a given ***Product***.
-
-#### 1.2.3 Fungible and Non-Fungible Products
+#### 1.2.2 Fungible and Non-Fungible Products
 
 If any pair of **Product Instances** are considered to be identical in specification and can be mutually substituted, then the **Product** is considered to be **Fungible**.
 
@@ -66,7 +62,7 @@ A ***“Relationship”*** is a type of relationship that can be formed between 
 - **(b)** a unique code.
 - **(c)** a ***“Purpose”***, which is a capacity, potential, or goal that is meant to be expressed through this relationship.
 
-A Relationship Type can have another type as it's Parent-Relationship-Type as long as their purposes are aligned and its overall depth is greater than Parent-Relationship Type's.
+A Relationship Type can have another type as it's Parent-Relationship as long as their purposes are aligned and its overall depth is greater than Parent-Relationship's.
 
 ### 1.5 Creating and Controlling Value Definitions
 
@@ -111,38 +107,6 @@ Default geography types are as follows, ordered by depth:
 - Address
 
 A Geography can have another Geography as it's Parent-Geography as long as it is its part.
-
-##### 2.3.1 Address Definition
-
-An ***"Address"*** is a precise geographical location, defined as:
-
-- **(a)** Street
-- **(b)** Geography: Country
-- **(c)** Geography: Region
-- **(d)** Geography or text: City
-- **(e)** Postalcode
-
-### 2.3 Locales and Product Exchange Rates
-
-Every Locale defined as name and ISO code. 
-
-An Exchange Rate is a pair and ratio between fungible Products (e.g. currencies).
-
-### 2.4 General Market, Sub-Markets and Channels
-
-The broadest space of the Organization's Market is its "General Market", which corresponds to the broadest defined Geography. Each Market is defined as:
-
-- **(a)** its name.
-- **(b)** its unique code.
-- **(c)** its corresponding Geography.
-- **(d)** its default Locale and Currency.
-- **(e)** its Parent-Market. (optional)
-
-The General Market has no Parent-Market.
-
-### Measurements
-
-All measurements in the **Market** can be standardized into ***Measurement Types and Units***.
 
 ## Article 3: Agreements
 
