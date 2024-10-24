@@ -141,7 +141,7 @@ Whenever a Channel is non-transactional, which means that Agents cannot make an 
 
 ### 4.2 Offering Definition
 
-A ***“Offering”*** is a Value Exchange proposition that can be opened or closed in a specific Market. Offering definition consists of:
+A ***“Offering”*** is a Value Exchange proposition that can be opened or closed in the market. Offering definition consists of:
 
 - **(a)** a descriptive name.
 - **(b)** a ***“Purpose”***, which is a capacity, potential, or goal that specific Offering.
@@ -149,21 +149,13 @@ A ***“Offering”*** is a Value Exchange proposition that can be opened or clo
 
 The **Offering** can be opened for a specific timeframe. All **Offerings** open in the Parent-Market are also open in any of its Sub-Markets. 
 
-### 4.3 Quantities
-
-Each **Offering Component** can have its specific ***Quantity*** defined, being 1 by default.
-
-### 4.3 Pricing Strategies and Formulas
-
-Each **Offering Component** must have a ***Pricing Strategy and Formula*** defined, whereas any Role or software calculating the price must use their best effort interpretation to determine the final price.
-
 ## Article 5: Internal Market
 
-By the virtue of stewarding the Market space (the "External" Market), the Organisation itself becomes the "Internal" Market and can make perform agreements and exchanges between it various parts.
+By the virtue of stewarding the Market space (the "External" Market), the Organisation itself becomes the "Internal" Market and can make perform agreements and exchanges between it various roles.
 
 ### 5.1 Micro-Enterprise Status
 
-Any role or circle can gain a **Micro-Enterprise** by any Circle Lead publishing the decision to do so and getting "No objection" from all other Circle Leads or Circle Reps of that role.
+Any role or circle can gain a **Micro-Enterprise Status** by any Circle Lead publishing the decision to do so and getting "No objection" from all other Circle Leads and Circle Reps of that role.
 
 ### 5.2 Micro-Enterprise Accountabilities
 
@@ -189,9 +181,6 @@ Every Micro-Enterprise gains additional accountabilities:
 
 - Defining the Geography
 - Defining the key taxonomies used in the Market
-- Defining the standard measurement units used in the Market
-
-_The Circle Lead also holds all Accountabilities on the Circle to the extent they are not covered by the Circle's Roles or processes._
 
 ---
 
