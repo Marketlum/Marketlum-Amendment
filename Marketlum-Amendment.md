@@ -165,6 +165,8 @@ Every Micro-Enterprise gains additional accountabilities:
 - Exchanging the relevant value on the external market via all possible channels
 - Tracking best effort approximation of revenue, expenses and the resulting P&L
 
+Each Micro-Enterprise must have a Market Development role with purpose "Attract and connect our target audience with relevant value".
+
 ---
 
 # **Appendix A**
