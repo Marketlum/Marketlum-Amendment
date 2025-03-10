@@ -90,7 +90,7 @@ An ***“Organization*** is a legal person/entity. Organization definition consi
 
 ### 2.3 Geography
 
-A ***“Geography*** is specific chunk of the Market's physical dimension defined as:
+A ***“Geography*** is specific part of the Market's physical dimension defined as:
 
 - **(a)** its name.
 - **(b)** its unique code.
@@ -124,8 +124,6 @@ Depending on how the contract was executed, an ***Agreement*** can be considered
 
 Depending on the perspective taken by one of the parties, an exchange can be a ***Purchase*** or ***Sale***.
 
-Whenever at least one side of the Exchange consists of Value that can be generally considered as money, it can be identified as a Transaction of Value that can be generally considered as money, it can be identified as a ***Transaction***.
-
 ### 4.1 Channels
 
 All Exchanges take place through one of the transactional **Channels**, which can be any way that the actual agreement is made. The definition consists of:
@@ -145,27 +143,27 @@ A ***“Offering”*** is a Value Exchange proposition that can be opened or clo
 
 - **(a)** a descriptive name.
 - **(b)** a ***“Purpose”***, which is a capacity, potential, or goal that specific Offering.
-- **(d)** at least one or more Offering Components, referencing Services, Products, specific Product Instances, Product Licenses or Relationship Types, each with their ***"Pricing"***.
+- **(d)** at least one or more Offering Components, referencing specific Value or Value Instance, each with their ***"Pricing"***.
 
-The **Offering** can be opened for a specific timeframe. All **Offerings** open in the Parent-Market are also open in any of its Sub-Markets. 
+The **Offering** can be opened for a specific timeframe.
 
 ## Article 5: Internal Market
 
-By the virtue of stewarding the Market space (the "External" Market), the Organisation itself becomes the "Internal" Market and can make perform agreements and exchanges between it various roles.
+By the virtue of stewarding the Market space (the "External" Market), the Organisation itself becomes the "Internal" Market and can make agreements and perform exchanges between it various roles.
 
-### 5.1 Micro-Enterprise Status
+### 5.1 Value Stream Status
 
-Any role or circle can gain a **Micro-Enterprise Status** by any Circle Lead publishing the decision to do so and getting "No objection" from all other Circle Leads and Circle Reps of that role.
+Any role or circle can gain a **Value Stream status** by any Circle Lead publishing the decision to do so and getting "No objection" from all other Circle Leads and Circle Reps of that role.
 
-### 5.2 Micro-Enterprise Accountabilities
+### 5.2 Value Stream Accountabilities
 
-Every Micro-Enterprise gains additional accountabilities:
+Every Value Stream gains additional accountabilities:
 
 - Creating, systemizing and evolving Value relevant to the purpose
 - Exchanging the relevant value on the external market via all possible channels
 - Tracking best effort approximation of revenue, expenses and the resulting P&L
 
-Each Micro-Enterprise must have a Market Development role with purpose "Attract and connect our target audience with relevant value".
+Each new Value Stream must have a Market Development role with purpose "Attract and connect our target audience with relevant value".
 
 ---
 
