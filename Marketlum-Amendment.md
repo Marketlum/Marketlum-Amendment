@@ -16,7 +16,7 @@ A ***“Service”*** is an organizational process that generates value in the M
 
 - **(a)** a descriptive name.
 - **(b)** a unique code.
-- **(c)** a ***“Purpose”***, which is a capacity, potential, or goal that the Organization provides through the Service.
+- **(c)** a ***“Purpose”***, which is a capacity, potential, or goal that the Organization realizes through the Service.
 
 A Service can have another service as it's Parent-Service as long as their purposes are aligned and its generated value has more depth relative to the Partent-Service.
 
@@ -116,13 +116,11 @@ All Agents of the Market can make mutually beneficial ***"Agreements"*** defined
 - **(b)** a list of Agents who are a party to this agreement
 - **(c)** the time and date (incl. the timezone) of the completion
 
-Depending on how the contract was executed, an ***Agreement*** can be considered as: *Verbal*, *Written*, *Notarial* or *Smart Agreement*.
-
 ## Article 4: Exchanges
 
 ***"Exchange"*** is a special type of ***Agreement*** in which the parties exchange an explicitly defined ***Value*** based on standard or custom ***Offerings***. 
 
-Depending on the perspective taken by one of the parties, an exchange can be a ***Purchase*** or ***Sale***.
+Depending on the perspective taken, an exchange can be a ***Purchase*** or ***Sale***.
 
 ### 4.1 Channels
 
