@@ -8,63 +8,32 @@ The Organization and its Partners steward a space for creating and exchanging Va
 
 ## Article 1: Value
 
-Value created by the Agents can be defined as: Services, Products, Rights or Relationships.
+### 1.1 Value Definition
 
-### 1.1 Service Definition
-
-A ***“Service”*** is an organizational process that generates value in the Market. Service definition consists of:
+Value created by the Agents is anything of importance, worth or usefulness. It is defined as:
 
 - **(a)** a descriptive name.
-- **(b)** a unique code.
-- **(c)** a ***“Purpose”***, which is a capacity, potential, or goal that the Organization realizes through the Service.
+- **(b)** a ***“Purpose”***, which is a capacity, potential, or goal that the Organization realizes through the Service.
+- **(c)** a ***“Type”***, which is one of the following: Product, Service, Relationship or Right.
 
-A Service can have another service as it's Parent-Service as long as their purposes are aligned and its generated value has more depth relative to the Partent-Service.
+The Value types are defined as:
 
-### 1.2 Product Definition
+A ***Product*** is an object.
+A ***Service*** is a process.
+A ***“Relationship”*** is a type of relationship that can be formed between two **Agents**.
+A ***Right*** is a legally enforceable claim held by an **Agent**.
 
-A ***“Product”*** is a concept of a tangible or intangible property of value that can be consumed in the Market. Product definition consists of:
+Value can transcend-and-include or be a part of another Value.
 
-- **(a)** a descriptive name.
-- **(b)** a unique code.
-- **(c)** a ***“Purpose”***, which is a capacity, potential, or goal that the product realizes.
-
-A Product can have another Product as it's Parent-Product if at least one of the following is true:
-
-- **(a)** Its fundamental existence depends on the existence of the Parent-Product.
-- **(b)** It is clearly distinguishable part of the Parent-Product.
-
-### 1.2.1 Tangible and Intangible Products
+### 1.1.1 Tangible and Intangible Products
 
 Every ***Product*** can be characterised as **Tangible** if it's a concrete object that can be touched or **Intangible** if it's a subtle object that can only be perceived indirectly.
 
-#### 1.2.2 Fungible and Non-Fungible Products
+#### 1.1.2 Fungible and Non-Fungible Products
 
-If any pair of **Product Instances** are considered to be identical in specification and can be mutually substituted, then the **Product** is considered to be **Fungible**.
+If any pair or quantity of **Product Instances** are considered to be identical in specification and can be mutually substituted, then the **Product** is considered to be **Fungible**.
 
-#### 1.3 Right Definition
-
-A ***Right*** is a legally enforceable claim held by an **Individual** or **Organization**, and defined as:
-
-- **(a)** a descriptive name.
-- **(b)** a unique code.
-- **(c)** a ***“Purpose”***, which is a capacity, potential, or goal to be expressed by this Right.
-
-A Right can have another Right as it Parent-Right if:
-
-- **(a)** It transcends and includes the Parent-Right and expands the claim;
-- **(b)** It is clearly distinguishable part of the Parent-Right.
-
-### 1.4 Relationship Definition
-
-A ***“Relationship”*** is a type of relationship that can be formed between the Organization and other Organizations or Individuals. Relationship Type definition consists of:
-
-- **(a)** a descriptive name.
-- **(b)** a unique code.
-- **(c)** a ***“Purpose”***, which is a capacity, potential, or goal that is meant to be expressed through this relationship.
-
-A Relationship Type can have another type as it's Parent-Relationship as long as their purposes are aligned and its overall depth is greater than Parent-Relationship's.
-
-### 1.5 Creating and Controlling Value Definitions
+### 1.2 Creating and Controlling Value Definitions
 
 Any Role can create a new Value Definition by publishing the decision and the Definition itself. This role automatically gains a Domain over this Definition, unless a Policy specifies otherwise.
 
