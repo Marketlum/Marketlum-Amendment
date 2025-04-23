@@ -41,28 +41,25 @@ Any Role can create a new Value Definition by publishing the decision and the De
 
 ### 2.1 Individuals and Organizations
 
-The agents in the Market are defined as Organizations and Individuals.
+The **Agents** in the Market are defined as **Organizations** and **Individuals**.
 
 #### 2.1.1 Individual Definition
 
 An ***“Individual”*** is a natural person. Individual definition consists of:
 
-- **(a)** first and last name.
-- **(b)** an unique email address.
+- **(a)* their legal name.
 
 #### 2.1.1 Organization Definition
 
-An ***“Organization*** is a legal person/entity. Organization definition consists of:
+An ***“Organization*** is a legal person/entity, defined by:
 
 - **(a)** its legal name.
-- **(b)** its short/common name.
 
-### 2.3 Geography
+### 2.2 Geography
 
 A ***“Geography*** is specific part of the Market's physical dimension defined as:
 
 - **(a)** its name.
-- **(b)** its unique code.
 - **(c)** its type.
 
 Default geography types are as follows, ordered by depth:
@@ -73,9 +70,6 @@ Default geography types are as follows, ordered by depth:
 - Country
 - Region
 - City
-- Address
-
-A Geography can have another Geography as it's Parent-Geography as long as it is its part.
 
 ## Article 3: Agreements
 
@@ -87,7 +81,7 @@ All Agents of the Market can make mutually beneficial ***"Agreements"*** defined
 
 ## Article 4: Exchanges
 
-***"Exchange"*** is a special type of ***Agreement*** in which the parties exchange an explicitly defined ***Value*** based on standard or custom ***Offerings***. 
+***"Exchange"*** is a special type of ***Agreement*** in which the parties exchange an explicitly defined ***Value***.
 
 Depending on the perspective taken, an exchange can be a ***Purchase*** or ***Sale***.
 
@@ -96,9 +90,6 @@ Depending on the perspective taken, an exchange can be a ***Purchase*** or ***Sa
 All Exchanges take place through one of the transactional **Channels**, which can be any way that the actual agreement is made. The definition consists of:
 
 - **(a)** its name.
-- **(b)** its unique code.
-- **(c)** its unique physical or digital address.
-- **(d)** at least one or more languages available
 
 #### 4.1.1 Awareness and Exchange Channels
 
