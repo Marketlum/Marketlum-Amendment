@@ -37,6 +37,10 @@ If any pair or quantity of **Product Instances** are considered to be identical 
 
 Any Role can create a new Value Definition by publishing the decision and the Definition itself. This role automatically gains a Domain over this Definition, unless a Policy specifies otherwise.
 
+### 1.3 Value Instances
+
+Any specific and unique manifestation of Value in the Market can be captured and recorded as **Value Instance**.
+
 ## Article 2: Market Foundations
 
 ### 2.1 Individuals and Organizations
@@ -107,7 +111,7 @@ The **Offering** can be opened for a specific timeframe.
 
 ## Article 5: Internal Market
 
-By the virtue of stewarding the Market space (the "External" Market), the Organisation itself becomes the "Internal" Market and can make agreements and perform exchanges between it various roles.
+By the virtue of stewarding the Market space (the "External" Market), the Organisation itself becomes the "Internal" Market and can make agreements and perform exchanges between its various Value Streams.
 
 ### 5.1 Value Stream Status
 
