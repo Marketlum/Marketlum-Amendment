@@ -41,6 +41,10 @@ Any Role can create a new Value Definition by publishing the decision and the De
 
 Any specific and unique manifestation of Value in the Market can be captured and recorded as **Value Instance**.
 
+### 1.4 Taxonomies
+
+Taxonomies must be used to classify Value and Agents of the Market.
+
 ## Article 2: Market Foundations
 
 ### 2.1 Individuals and Organizations
