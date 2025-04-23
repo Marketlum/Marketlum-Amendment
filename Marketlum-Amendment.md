@@ -13,14 +13,14 @@ The Organization and its Partners steward a space for creating and exchanging Va
 Value created by the Agents is anything of importance, worth or usefulness. It is defined as:
 
 - **(a)** a descriptive name.
-- **(b)** a ***“Purpose”***, which is a capacity, potential, or goal that the Organization realizes through the Service.
+- **(b)** a ***“Purpose”***, which is a capacity, potential, or goal that the Organization realizes through the Value.
 - **(c)** a ***“Type”***, which is one of the following: Product, Service, Relationship or Right.
 
 The Value types are defined as:
 
 A ***Product*** is an object.
 A ***Service*** is a process.
-A ***“Relationship”*** is a type of relationship that can be formed between two **Agents**.
+A ***Relationship*** is a type of relationship that can be formed between two **Agents**.
 A ***Right*** is a legally enforceable claim held by an **Agent**.
 
 Value can transcend-and-include or be a part of another Value.
@@ -89,7 +89,7 @@ All Agents of the Market can make mutually beneficial ***"Agreements"*** defined
 
 ## Article 4: Exchanges
 
-***"Exchange"*** is a special type of ***Agreement*** in which the parties exchange an explicitly defined ***Value***.
+***"Exchange"*** is a special type of ***Agreement*** in which the parties exchange explicitly defined sets of ***Value*** and/or **Value Instances**.
 
 Depending on the perspective taken, an exchange can be a ***Purchase*** or ***Sale***.
 
