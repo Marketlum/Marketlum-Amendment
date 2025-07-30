@@ -85,7 +85,14 @@ All Agents of the Market can make mutually beneficial ***"Agreements"*** defined
 
 - **(a)** a descriptive and unique title
 - **(b)** a list of Agents who are a party to this agreement
-- **(c)** the time and date (incl. the timezone) of the completion
+
+### 3.1 Signing Agreements
+
+You may not sign an agreement unless you first get authorized to do so.
+
+To get authorized to sign, you must announce your intent in writing to the Role you're seeking authorization from. You must share this announcement where all Partners serving as Role Leads of that Role or within that Role will typically see it. Your statement must include the reason for signing, and the Role you'll sign from. You must then wait a reasonable time to allow consideration and responses. Any recipient of your announcement may escalate the agreement for extra consideration, and you may not proceed with the signing if escalated. However, a Role Lead of the Role you're seeking authorization from may reverse an escalation, as may the person who escalated it. Once a reasonable time has passed and no escalations stand, your Role gains the authority to sign the agreement.
+
+A Policy may change this process in any way, or directly authorize a Role to sign certain agreement types.
 
 ## Article 4: Exchanges
 
