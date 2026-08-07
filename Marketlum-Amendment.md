@@ -55,20 +55,20 @@ The **Agents** in the Market are defined as **Organizations** and **Individuals*
 
 An ***“Individual”*** is a natural person. Individual definition consists of:
 
-- **(a)* their legal name.
+- **(a)** their legal name.
 
-#### 2.1.1 Organization Definition
+#### 2.1.2 Organization Definition
 
-An ***“Organization*** is a legal person/entity, defined by:
+An ***“Organization”*** is a legal person/entity, defined by:
 
 - **(a)** its legal name.
 
 ### 2.2 Geography
 
-A ***“Geography*** is specific part of the Market's physical dimension defined as:
+A ***“Geography”*** is a specific part of the Market's physical dimension defined as:
 
 - **(a)** its name.
-- **(c)** its type.
+- **(b)** its type.
 
 Default geography types are as follows, ordered by depth:
 
@@ -112,11 +112,11 @@ Whenever a Channel is non-transactional, which means that Agents cannot make an 
 
 ### 4.2 Offering Definition
 
-A ***“Offering”*** is a Value Exchange proposition that can be opened or closed in the market. Offering definition consists of:
+An ***“Offering”*** is a Value Exchange proposition that can be opened or closed in the market. Offering definition consists of:
 
 - **(a)** a descriptive name.
-- **(b)** a ***“Purpose”***, which is a capacity, potential, or goal that specific Offering.
-- **(d)** at least one or more Offering Components, referencing specific Value or Value Instance, each with their ***"Pricing"***.
+- **(b)** a ***“Purpose”***, which is a capacity, potential, or goal that the Organization realizes through that specific Offering.
+- **(c)** at least one or more Offering Components, referencing specific Value or Value Instance, each with their ***"Pricing"***.
 
 The **Offering** can be opened for a specific timeframe.
 
