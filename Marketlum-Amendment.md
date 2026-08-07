@@ -23,7 +23,7 @@ A ***Service*** is a process.
 A ***Relationship*** is a type of relationship that can be formed between two **Actors**.
 A ***Right*** is a legally enforceable claim held by an **Actor**.
 A ***Currency*** is a medium of exchange accepted in the Market.
-An ***Equity*** is an ownership interest in an **Organization**.
+An ***Equity*** is an ownership interest in an **Organization** or any **Value Instance**.
 
 Value can transcend-and-include or be a part of another Value.
 
