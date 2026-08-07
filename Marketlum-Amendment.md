@@ -14,7 +14,7 @@ Value created by the Actors is anything of importance, worth or usefulness. It i
 
 - **(a)** a descriptive name.
 - **(b)** a ***“Purpose”***, which is a capacity, potential, or goal that the Organization realizes through the Value.
-- **(c)** a ***“Type”***, which is one of the following: Product, Service, Relationship or Right.
+- **(c)** a ***“Type”***, which is one of the following: Product, Service, Relationship, Right, Currency or Equity.
 
 The Value types are defined as:
 
@@ -22,6 +22,8 @@ A ***Product*** is an object.
 A ***Service*** is a process.
 A ***Relationship*** is a type of relationship that can be formed between two **Actors**.
 A ***Right*** is a legally enforceable claim held by an **Actor**.
+A ***Currency*** is a medium of exchange accepted in the Market.
+An ***Equity*** is an ownership interest in an **Organization**.
 
 Value can transcend-and-include or be a part of another Value.
 
