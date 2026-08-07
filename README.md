@@ -2,7 +2,7 @@
 
 ### What is the Marketum Amendment?
 
-The Marketlum Amendment extends Holacracy® Constitution with a framework for market development. It builds on top of its core rules, structure, and processes.
+The Marketlum Amendment extends Holacracy® Constitution with a framework for building self-organising markets.
 
 ### Legal Disclaimer
 
@@ -19,4 +19,3 @@ Marketlum is not a law firm, and the Amendment should not be construed as a lega
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a> 
 
 ---
-

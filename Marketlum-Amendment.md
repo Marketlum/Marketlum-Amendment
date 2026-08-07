@@ -4,9 +4,9 @@
 
 This document is an amendment to the Holacracy® Constitution. For more information, please see <a rel="license" href="https://holacracy.org">holacracy.org</a>.
 
-The Organization and its Partners steward a space for creating and exchanging Value among Agents, the ***"Market"***.
+The Organization and its Partners steward a space for creating and exchanging value among agents, the ***"Market"***.
 
-## Article 1: Value
+## Article 1: Market's Structure
 
 ### 1.1 Value Definition
 
