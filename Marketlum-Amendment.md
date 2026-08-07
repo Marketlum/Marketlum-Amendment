@@ -4,13 +4,13 @@
 
 This document is an amendment to the Holacracy® Constitution. For more information, please see <a rel="license" href="https://holacracy.org">holacracy.org</a>.
 
-The Organization and its Partners steward a space for creating and exchanging value among agents, the ***"Market"***.
+The Organization and its Partners steward a space for creating and exchanging value among actors, the ***"Market"***.
 
 ## Article 1: Market's Structure
 
 ### 1.1 Value Definition
 
-Value created by the Agents is anything of importance, worth or usefulness. It is defined as:
+Value created by the Actors is anything of importance, worth or usefulness. It is defined as:
 
 - **(a)** a descriptive name.
 - **(b)** a ***“Purpose”***, which is a capacity, potential, or goal that the Organization realizes through the Value.
@@ -20,8 +20,8 @@ The Value types are defined as:
 
 A ***Product*** is an object.
 A ***Service*** is a process.
-A ***Relationship*** is a type of relationship that can be formed between two **Agents**.
-A ***Right*** is a legally enforceable claim held by an **Agent**.
+A ***Relationship*** is a type of relationship that can be formed between two **Actors**.
+A ***Right*** is a legally enforceable claim held by an **Actor**.
 
 Value can transcend-and-include or be a part of another Value.
 
@@ -43,13 +43,13 @@ Any specific and unique manifestation of Value in the Market can be captured and
 
 ### 1.4 Taxonomies
 
-Taxonomies must be used to classify Value and Agents of the Market.
+Taxonomies must be used to classify Value and Actors of the Market.
 
 ## Article 2: Market Foundations
 
 ### 2.1 Individuals and Organizations
 
-The **Agents** in the Market are defined as **Organizations** and **Individuals**.
+The **Actors** in the Market are defined as **Organizations** and **Individuals**.
 
 #### 2.1.1 Individual Definition
 
@@ -81,10 +81,10 @@ Default geography types are as follows, ordered by depth:
 
 ## Article 3: Agreements
 
-All Agents of the Market can make mutually beneficial ***"Agreements"*** defined as a contract duly executed and legally binding in the Market. The definition consists of:
+All Actors of the Market can make mutually beneficial ***"Agreements"*** defined as a contract duly executed and legally binding in the Market. The definition consists of:
 
 - **(a)** a descriptive and unique title
-- **(b)** a list of Agents who are a party to this agreement
+- **(b)** a list of Actors who are a party to this agreement
 
 ### 3.1 Signing Agreements
 
@@ -108,7 +108,7 @@ All Exchanges take place through one of the transactional **Channels**, which ca
 
 #### 4.1.1 Awareness and Exchange Channels
 
-Whenever a Channel is non-transactional, which means that Agents cannot make an Agreement through it, it is considered an Awareness Channel. All transactional Channels can be considered Awareness or Exchange Channels, depending on the context.
+Whenever a Channel is non-transactional, which means that Actors cannot make an Agreement through it, it is considered an Awareness Channel. All transactional Channels can be considered Awareness or Exchange Channels, depending on the context.
 
 ### 4.2 Offering Definition
 
